@@ -31,8 +31,9 @@ and make them be available for streaming with minimal effort.
 - realized i should write my wifi router admin panel password 
 down after changing it, and not waste 2-3 hours trying to find it. :DD
 
-## Next Steps
+## TO-DO
 - Wait for new hardware to arrive (Raspberry Pi 5 4GB, Argus One case, all the necessary bells and whistles).
 - Experiment with VMs.
 - Research virtual security measures, since i'm pretty sure this setup is HELLA unsafe.
-- Learn basic linux and git commands by heart, tired of looking them up
+- Learn basic linux and git commands by heart, tired of looking them up.
+- Migrate from Windows 11 to Linux (not sure what distro yet).
