@@ -16,7 +16,7 @@ Simple NAS / Media server made out of salvaged parts from around the house.
 - Setup not permanent, waiting on parts to come, current setup is for learning.
 
 ## Software
-- Windows 11 Home
+- OpenMediaVault
 - Jellyfin
 - Syncthing
 
@@ -30,11 +30,11 @@ and make them be available for streaming with minimal effort.
 - Learned a bit about automatic syncing.
 - realized i should write my wifi router admin panel password 
 down after changing it, and not waste 2-3 hours trying to find it. :DD
+- Setup a fully functional OpenMediaVault system with a docker container containing jellyfish
 
 ## TO-DO
 - Wait for new hardware to arrive (Raspberry Pi 5 4GB, Argus One case, all the necessary bells and whistles).
 - Experiment with VMs.
 - Research virtual security measures, since i'm pretty sure this setup is HELLA unsafe.
-- Learn basic linux and git commands by heart, tired of looking them up.
-- Migrate from Windows 11 to Linux (not sure what distro yet).
+- Learn basic linux and git commands by heart, tired of looking them up. (Partially complete, know my most used commands)
 - Setup remote connection to router dashboard
